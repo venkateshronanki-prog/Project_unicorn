@@ -1,7 +1,7 @@
 // Project Butterfly service worker — makes the game fully playable offline.
 // Strategy: precache the app shell; cache-first for same-origin files with background refresh
 // (stale-while-revalidate); runtime-cache Firebase SDK files so cloud features also load offline.
-const VERSION = 'bf-v1.0.1';
+const VERSION = 'bf-v1.0.2';
 const CORE = ['./', 'index.html', 'manifest.webmanifest', 'icon.svg', 'icon-192.png', 'icon-512.png', 'icon-maskable-512.png', 'apple-touch-icon.png'];
 
 self.addEventListener('install', (e) => {
