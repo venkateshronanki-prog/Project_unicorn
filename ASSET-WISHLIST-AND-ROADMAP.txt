@@ -1,0 +1,17 @@
+ASSETS THAT WOULD MAKE THE BIGGEST DIFFERENCE (send any of these as .glb if you can)
+1. Trees: birch, pine/fir, oak, cherry blossom, maple (autumn), bare winter tree - low-poly-friendly (under 3k triangles each).
+2. Flowers and plants: wildflower clumps, ferns, lavender, daisies, mushrooms, reeds/cattails for the lake edge.
+3. Path stones: PBR paving texture set (diffuse + normal + roughness, 1k).
+4. Land animals: deer, rabbit, fox, songbirds, dragonflies, owls (rigged or simple loops) - for the "more life on the ground" request.
+5. Sea life: a second clownfish/tang/angelfish school, jellyfish (under 1.5k tris), seahorse, manta, whale shark.
+6. Mermaid: a version with a shorter, wider tail and a bright palette would look best (the current tail is very long).
+7. Sky: more equirect HDRI photos (storm, aurora, snowy dawn, golden sunset).
+8. Audio: ambient loops per season (birds, wind, snowfall, leaves), water splash, underwater hum, prism-surge sting, hurdle smash.
+9. Icons: a proper app icon (1024x1024), splash artwork.
+
+IDEAS FOR NEXT SMALL STEPS (one at a time)
+- Daily challenge + streak rewards.  - Unicorn / mermaid outfit unlocks from collected colours.
+- Photo mode with share image.      - Ghost of your best run.
+- Weather events (lightning, aurora at night).   - Boss gate: a rock guardian you must dodge in a pattern.
+- Accessibility: reduced-motion mode, colour-blind-safe prism shapes.
+- Real-device telemetry (FPS buckets) so we can tune from facts instead of guesses.

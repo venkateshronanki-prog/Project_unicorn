@@ -1,0 +1,15 @@
+v2.5.0
+- Performance: scene cut from ~2.8M to ~0.75M triangles and from ~770 to ~310 draw calls per frame (the main cause of hiccups/crashes).
+  Lighter rocks/reef/logs, lighter grass, shorter view distance, smaller textures, shaders and models pre-compiled behind the loading screen.
+- Quality menu is now just Auto / Smooth / Beautiful. No mid-run quality switching churn; the game only ever steps down once if a device struggles.
+- Crash recovery: if iOS reclaims graphics memory the game saves and restarts itself.
+- Hurdles are real scanned rocks, logs, stumps (land) and reef rock/coral/clams (water) with a warning glow.
+- Rainbow gates are much taller and wider - fly underneath.
+- Boost replaced by PRISM SURGE: collect all six colours (rainbow gates light one for you), then tap the bolt.
+  Surge = faster, smashes every hurdle, double points, magnet.
+- The unicorn's colours travel round the rainbow as your score climbs.
+- Mermaid: shorter tail, bigger upper body, side-on chase camera so her face, hair and arms are visible.
+- Seasons: falling snow, tumbling autumn leaves, drifting blossom petals (GPU-driven); the lake changes too
+  (blossom rafts, amber leaf-stained water, ice floes and shore ice).
+- More life: bigger fish schools and more species at once (cast rotates every ~120 m), more flowers and butterflies.
+- Offline install made more robust. iPad/iPhone edge-to-edge sizing.
