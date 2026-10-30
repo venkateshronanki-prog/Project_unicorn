@@ -1,0 +1,8 @@
+Project Butterfly v2.4.0 - flat build (no folders)
+
+1. Unzip this file on your iPad/iPhone/computer.
+2. In your GitHub repo choose Add file > Upload files and drag in EVERY file from this folder
+   (replace existing ones when asked). Commit.
+3. Wait ~1 minute for GitHub Pages, then open the game once in Safari.
+4. In the game: Settings > Update. For full screen on iPad: Share > Add to Home Screen, then open the new icon.
+   (If you already added an icon, delete it and add it again.)
