@@ -1,3 +1,9 @@
+v2.13.0 - SMOOTHER WORLD CHANGES, BABY MERMAID, SOUNDS
+- Transitions: screen softly brightens as you reach each rainbow gate and fades out slowly after; sky/space shaders prepared during loading (no stutter on first entry); smaller camera punch.
+- Lumi swims in as a baby mermaid at every lake, beside you and in view.
+- Underwater camera is further back so the mermaid is smaller on screen.
+- Sounds: soft wing flutter, baby giggles, gentle music-box lullaby over the music.
+
 v2.12.0 - SKY, SPACE & HEAVEN
 - New world cycle: Land (90s) > Lake (90s) > Land > Space (150s) > repeat. Rainbow gate at every change.
 - Foal appears in the sky trip: fly through Heaven, then all 8 planets, Moon, Sun, asteroid belt, comet; three-lane runner.
