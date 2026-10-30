@@ -1,3 +1,7 @@
+v2.11.0: lakes only in summer/autumn levels (spring + winter stay on the road), fair obstacle gaps and smaller hitboxes, colour chain kept after a hit, sculpted sea animals restored.
+
+v2.10.0: simple sea plants replace underwater decor/animal models, tail glow removed, autumn+winter last two levels each, 60fps frame pacing + dt smoothing.
+
 v2.9.0: new obstacle models (crate, barrel, cart, log pile, crystal, column, fence, log / coral, sponge pillars, ship hull and ribs), realistic seabed decor replaces old kelp, mermaid rises with the floor at lake exit, tail glow/bubble sprites removed.
 
 v2.8.0: Beautiful mode flicker fix: shadow texel snapping, pixel-budgeted resolution, in-place resolution scaling (no pipeline rebuild), MSAA 2.
