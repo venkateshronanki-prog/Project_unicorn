@@ -1,3 +1,11 @@
+v2.12.0 - SKY, SPACE & HEAVEN
+- New world cycle: Land (90s) > Lake (90s) > Land > Space (150s) > repeat. Rainbow gate at every change.
+- Foal appears in the sky trip: fly through Heaven, then all 8 planets, Moon, Sun, asteroid belt, comet; three-lane runner.
+- Lumi turns into a small coral-pink mermaid in lakes.
+- Characters: Twinkle the star guide (space), Cloud Angel (Heaven, your animated angel model), planet facts toasts.
+- Heaven props from your pack: angel, cloud clusters, harp, cloud-halo gateway.
+- Credits: planet/Sun textures (c) Solar System Scope, CC BY 4.0; Moon NASA.
+
 v2.11.0: lakes only in summer/autumn levels (spring + winter stay on the road), fair obstacle gaps and smaller hitboxes, colour chain kept after a hit, sculpted sea animals restored.
 
 v2.10.0: simple sea plants replace underwater decor/animal models, tail glow removed, autumn+winter last two levels each, 60fps frame pacing + dt smoothing.
