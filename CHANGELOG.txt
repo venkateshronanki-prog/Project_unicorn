@@ -1,3 +1,5 @@
+v2.8.0: Beautiful mode flicker fix: shadow texel snapping, pixel-budgeted resolution, in-place resolution scaling (no pipeline rebuild), MSAA 2.
+
 v2.7.0: sand lake floor, mermaid lower, autumn/winter twice as frequent, dimmer rainbow gates, calmer transition, guaranteed clear lane through obstacle walls, higher render quality.
 
 v2.6.0: slower speeds, deeper lakes (7.6 m), mermaid swims clear of floor, top-down underwater camera, tall reef hurdles, no hold-still auto-boost.
