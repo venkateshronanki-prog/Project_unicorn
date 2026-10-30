@@ -1,3 +1,5 @@
+v2.9.0: new obstacle models (crate, barrel, cart, log pile, crystal, column, fence, log / coral, sponge pillars, ship hull and ribs), realistic seabed decor replaces old kelp, mermaid rises with the floor at lake exit, tail glow/bubble sprites removed.
+
 v2.8.0: Beautiful mode flicker fix: shadow texel snapping, pixel-budgeted resolution, in-place resolution scaling (no pipeline rebuild), MSAA 2.
 
 v2.7.0: sand lake floor, mermaid lower, autumn/winter twice as frequent, dimmer rainbow gates, calmer transition, guaranteed clear lane through obstacle walls, higher render quality.
