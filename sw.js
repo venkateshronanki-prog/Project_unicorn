@@ -1,8 +1,8 @@
 // Project Butterfly service worker — makes the game fully playable offline.
 // Strategy: precache the app shell; cache-first for same-origin files with background refresh
 // (stale-while-revalidate); runtime-cache Firebase SDK files so cloud features also load offline.
-const VERSION = 'bf-v2.2.0';
-const CORE = ['./', 'index.html', 'manifest.webmanifest', 'icon.svg', 'icon-192.png', 'icon-512.png', 'icon-maskable-512.png', 'apple-touch-icon.png', 'unicorn.glb', 'wings.json', 'mermaid.glb', 'sea_clown.fbx', 'sea_clown_d.jpg', 'sea_clown_n.jpg', 'sea_clown_r.jpg', 'sea_dolphin.fbx', 'sea_fish1.fbx', 'sea_fish3.fbx', 'sea_mandarin.glb', 'sea_manta.fbx', 'sea_parrot.glb', 'sea_shark.fbx', 'sea_tang.fbx', 'sea_whale.fbx'];
+const VERSION = 'bf-v2.3.0';
+const CORE = ['./', 'index.html', 'manifest.webmanifest', 'icon.svg', 'icon-192.png', 'icon-512.png', 'icon-maskable-512.png', 'apple-touch-icon.png', 'unicorn.glb', 'wings.json', 'mermaid.glb', 'land.glb', 'reef.glb', 'foal.glb', 'ground_c.webp', 'sky_dawn.webp', 'sky_day.webp', 'sky_sunset.webp', 'sky_night.webp', 'sea_clown.fbx', 'sea_clown_d.jpg', 'sea_clown_n.jpg', 'sea_clown_r.jpg', 'sea_dolphin.fbx', 'sea_fish1.fbx', 'sea_fish3.fbx', 'sea_mandarin.glb', 'sea_manta.fbx', 'sea_parrot.glb', 'sea_shark.fbx', 'sea_tang.fbx', 'sea_whale.fbx'];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(VERSION).then((c) => c.addAll(CORE)).then(() => self.skipWaiting()));
