@@ -1,3 +1,9 @@
+v2.15.0
+- Mermaid: tail now carries a gentle curve so it reads as a mermaid tail, not a long fish (no shortening, legs stay hidden); swim wave kept.
+- Underwater: clearer, bluer water with lighter fog; baby mermaid Kiki camera pulled back.
+- Land/lake/space speed raised for a faster feel (base 21, max 34).
+- Real device FPS and voices not measured in testing (headless only).
+
 v2.14.0 - KIKI & PRATHYU, REAL VOICES, MY MUSIC, FIXES
 - Foal is now Kiki; the unicorn/mermaid player is Prathyu. Kiki and Prathyu (and Twinkle, the angel) now speak aloud - no speech boxes cover the view.
 - Settings: Music source = Game / My music / Off. Choose songs from your device (Files, iCloud Drive, downloads); Apple Music streaming tracks cannot be opened by a web page.
