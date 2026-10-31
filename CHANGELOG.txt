@@ -1,3 +1,9 @@
+v2.16.0
+- New Balanced mermaid model (compact tail, no legs, tail-wave animation) for Prathyu and baby Kiki; credit added.
+- Sky: only one lane blocked at a time, clouds moved away from the flight path.
+- Mummy Prathyu now speaks short fun facts about each planet and each world; Kiki's voice is higher, slower and giggly.
+- Not measured: real iPhone speed, sound. Name pronunciations are waiting for the user's spelling.
+
 v2.15.0
 - Mermaid: tail now carries a gentle curve so it reads as a mermaid tail, not a long fish (no shortening, legs stay hidden); swim wave kept.
 - Underwater: clearer, bluer water with lighter fog; baby mermaid Kiki camera pulled back.
