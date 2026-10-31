@@ -1,3 +1,13 @@
+v2.14.0 - KIKI & PRATHYU, REAL VOICES, MY MUSIC, FIXES
+- Foal is now Kiki; the unicorn/mermaid player is Prathyu. Kiki and Prathyu (and Twinkle, the angel) now speak aloud - no speech boxes cover the view.
+- Settings: Music source = Game / My music / Off. Choose songs from your device (Files, iCloud Drive, downloads); Apple Music streaming tracks cannot be opened by a web page.
+- Land and lake stretches are much shorter (about 40 s each); the cycle is Land > Lake > Sky & Space, first space trip after ~80 s.
+- Mermaid: tail and body now swim (wiggle), new turquoise-pearl tail colours; missed orbs no longer glow at the camera.
+- Kiki is clearly pink; fish and sea animals are bigger and brighter; Twinkle only appears when speaking.
+- Boost button moved up and smaller; press again to stop a surge midway.
+- New 'New game - Level 1' button on the menu.
+- Fair-path check: 40 km of generated track tested - a clear path always exists and no orb sits inside a hurdle.
+
 v2.13.0 - SMOOTHER WORLD CHANGES, BABY MERMAID, SOUNDS
 - Transitions: screen softly brightens as you reach each rainbow gate and fades out slowly after; sky/space shaders prepared during loading (no stutter on first entry); smaller camera punch.
 - Lumi swims in as a baby mermaid at every lake, beside you and in view.
