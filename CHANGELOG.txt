@@ -1,3 +1,13 @@
+v2.28.0
+- Roads rebuilt from real scanned materials: grassy dirt path (spring), dry fallen leaves (autumn), packed snow (winter), with proper depth and shine.
+- New animated dragon model for Ember, replacing the shape-built one.
+- Real photographic skies behind the Snow Kingdom, Rainforest, Dream Garden and Candy Cloud worlds.
+
+v2.27.0
+- Sky worlds rebuilt with the supplied 3D models: Snow Kingdom, Butterfly Rainforest, Dream Garden and Candy Cloud now have real islands, towers, palaces, trees, animals, bridges and their own gates.
+- Each sky world has its own cloud look.
+- Models load quietly in the background so the game starts as fast as before.
+
 v2.26.0
 - Each ground world now has its own road: a dirt track in spring, fallen leaves in autumn, a snow path in winter (the flagstone road stays for other cases). Road surfaces load in the background.
 - Roadside scenery for each ground world: wooden fences, flower beds and stone lanterns in spring; pumpkins and signs in autumn; snow banks, ice rails and icicle lamps in winter. All placed outside the three lanes.
