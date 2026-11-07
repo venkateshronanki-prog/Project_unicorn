@@ -1,3 +1,6 @@
+v2.19.2
+- Boost smoothness: the speed-blur pass now does 9 texture reads instead of 21 (same look); smash and orb sounds are rate-limited so many at once cannot flood audio.
+
 v2.19.1
 - Fixed: My Book Close button (it shared an ID with the Leaderboard close button, which also broke that one).
 - Photo mode always returns to the pause screen.
