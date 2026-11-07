@@ -1,3 +1,6 @@
+v2.16.1
+- Spoken names respelled (Prah-thyoo, Kee-kee); on-screen spelling stays Prathyu and Kiki.
+
 v2.16.0
 - New Balanced mermaid model (compact tail, no legs, tail-wave animation) for Prathyu and baby Kiki; credit added.
 - Sky: only one lane blocked at a time, clouds moved away from the flight path.
