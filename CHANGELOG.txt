@@ -1,3 +1,14 @@
+v2.29.0
+- Land and lake worlds are shorter (20 seconds each); the sky worlds now last about 170 seconds, so most of the journey is spent in the sky.
+- Ember is now a coral and gold dragon. He flies beside you for the first half of each sky journey, then waves goodbye and soars away.
+- Kiki is now a pearly lilac that drifts toward the colour of the orbs you collect.
+- The mermaid's tail and dress now take the colour of the orbs she collects.
+- Orbs are now perfectly symmetric jewels, one shape per colour (heart, star, brilliant gem, sparkle, flower, crystal). Kiki's star-egg is a seven-point star.
+- New models from your pack: Cloud Angel, Flora, Butterfly Queen and Twinkle, plus new scenery in the four sky worlds.
+- New animals: penguins, polar bear cubs, owls, toucans, monkeys and three butterfly species.
+- The characters now load after the menu appears, so the start is lighter.
+- Obstacle check on 40,000 m of track: no blocked moments, orbs never inside obstacles.
+
 v2.28.0
 - Roads rebuilt from real scanned materials: grassy dirt path (spring), dry fallen leaves (autumn), packed snow (winter), with proper depth and shine.
 - New animated dragon model for Ember, replacing the shape-built one.
