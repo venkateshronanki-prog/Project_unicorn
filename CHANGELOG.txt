@@ -1,3 +1,19 @@
+v2.23.0
+- Three new friends with their own voices: Ember the baby dragon flies beside Prathyu in every sky world; Flora the fairy leads the way and leaves sparkles in the new sky worlds; the Butterfly Queen joins the Rainforest of Butterflies and gives 10 bonus stars.
+- Each friend is added to My Book (Friends list).
+
+v2.22.0
+- Three new sky worlds: Snow Kingdom (ice towers, snowflakes, aurora lights), Rainforest of Butterflies (giant flowers, big leaves, fluttering butterflies) and Dream Garden at Night (glowing flowers, fireflies, big moon, stars). Sky journeys now rotate: planets, candy, snow, butterflies, dream.
+- Mommy tells a short fact in each world; each world is added to My Book.
+
+v2.21.0
+- New worlds now live in the sky: the Candy Cloud Kingdom replaces the land version. Every second Sky journey is the Candy Cloud Kingdom (pink sky, swirl lollipops, candy canes, gumdrops, cotton-candy clouds, pink floating rocks), with Mommy telling about it. The classic planets journey is unchanged.
+- Land is back to spring, autumn and winter only.
+
+v2.20.0
+- New world: Candy Cloud Kingdom (pastel sky, cotton-candy trees, candy-cane pines, gumdrop rocks); appears on the second journey, Mommy introduces it.
+- New friend: a baby dolphin swims beside the mermaid in every lake.
+
 v2.19.2
 - Boost smoothness: the speed-blur pass now does 9 texture reads instead of 21 (same look); smash and orb sounds are rate-limited so many at once cannot flood audio.
 
