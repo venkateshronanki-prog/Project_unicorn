@@ -1,3 +1,12 @@
+v2.26.0
+- Each ground world now has its own road: a dirt track in spring, fallen leaves in autumn, a snow path in winter (the flagstone road stays for other cases). Road surfaces load in the background.
+- Roadside scenery for each ground world: wooden fences, flower beds and stone lanterns in spring; pumpkins and signs in autumn; snow banks, ice rails and icicle lamps in winter. All placed outside the three lanes.
+
+v2.25.0
+- Bedtime mode (menu): slow, calm flying with a soft dark glow, quieter sounds, no hearts lost, and Mommy tells a short goodnight story before the game closes softly.
+- Story chapters in My Book: seven short chapters, one for each world, unlocked when you visit the world and read aloud by Mommy.
+- Mini-games (menu): Butterfly Catch and Star Memory, played on a simple screen, paying stars into My Book.
+
 v2.24.0
 - Costumes: in My Book you can now buy crowns (pink bow, flower crown, golden crown, star tiara) and neck charms (rainbow scarf, pearl necklace) with stars. Prathyu wears them as a unicorn and as a mermaid, and your choice is saved.
 
