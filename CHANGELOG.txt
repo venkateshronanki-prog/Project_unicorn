@@ -1,3 +1,7 @@
+v2.18.0
+- Indian-English / Telugu-English Mommy lines, slower Hindi-voice Mommy; Kiki slower baby voice.
+- First-time How-to-play before the first run; My Book (planets, worlds, stars) with daily streak; break reminder (Settings); photo mode (Pause > Take a photo).
+
 v2.17.0
 - Natural recorded voices (neural voice, your own spoken Prathyu and Kiki clips spliced in); phone voice only as fallback.
 - iPad now starts on Smooth (it used the heaviest tier before and ran hot); gentle heat governor for long play.
