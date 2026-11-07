@@ -1,3 +1,8 @@
+v2.19.1
+- Fixed: My Book Close button (it shared an ID with the Leaderboard close button, which also broke that one).
+- Photo mode always returns to the pause screen.
+- All em and en dashes removed from text, code and docs.
+
 v2.19.0
 - Mommy and Kiki lines now plain Indian English (no Telugu words); voices regenerated.
 - Sparkle styles: unlock with stars in My Book (Golden glow, Rose petals, Ocean sparkle, Starlight).
