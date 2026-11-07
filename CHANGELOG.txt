@@ -1,3 +1,6 @@
+v2.24.0
+- Costumes: in My Book you can now buy crowns (pink bow, flower crown, golden crown, star tiara) and neck charms (rainbow scarf, pearl necklace) with stars. Prathyu wears them as a unicorn and as a mermaid, and your choice is saved.
+
 v2.23.0
 - Three new friends with their own voices: Ember the baby dragon flies beside Prathyu in every sky world; Flora the fairy leads the way and leaves sparkles in the new sky worlds; the Butterfly Queen joins the Rainforest of Butterflies and gives 10 bonus stars.
 - Each friend is added to My Book (Friends list).
