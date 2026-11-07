@@ -1,3 +1,7 @@
+v2.19.0
+- Mommy and Kiki lines now plain Indian English (no Telugu words); voices regenerated.
+- Sparkle styles: unlock with stars in My Book (Golden glow, Rose petals, Ocean sparkle, Starlight).
+
 v2.18.0
 - Indian-English / Telugu-English Mommy lines, slower Hindi-voice Mommy; Kiki slower baby voice.
 - First-time How-to-play before the first run; My Book (planets, worlds, stars) with daily streak; break reminder (Settings); photo mode (Pause > Take a photo).
