@@ -1,3 +1,8 @@
+v2.17.0
+- Natural recorded voices (neural voice, your own spoken Prathyu and Kiki clips spliced in); phone voice only as fallback.
+- iPad now starts on Smooth (it used the heaviest tier before and ran hot); gentle heat governor for long play.
+- Faster start: fish, angel and scenery download in parallel.
+
 v2.16.1
 - Spoken names respelled (Prah-thyoo, Kee-kee); on-screen spelling stays Prathyu and Kiki.
 
